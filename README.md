@@ -1,6 +1,4 @@
 # VBA-challenges
-
-# Note- Looks like we can't open the files in github.I have uploaded a code snippet in text file for reference. - Multiple_year_stock_data.txt" 
 project's title-> 
 VBA-challenge
 
