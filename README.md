@@ -1,5 +1,6 @@
 # VBA-challenges
 
+# Note- Looks like we can't open the files in github.I have uploaded a code snippet in text file for reference. - Multiple_year_stock_data.txt" 
 project's title-> 
 VBA-challenge
 
@@ -27,7 +28,7 @@ C. How to install and run the project->
 9.On the Developer tab, in the Code group, click Macros.
 10.In the Macro name box, click the macro that you want to run, and press the Run button.
 
-#Screenshot of the alphabetical_testing result: - 
+# Screenshot of the alphabetical_testing result: - 
 
 ![alphabetical-testing-sheet-A](https://github.com/AmitaGarad/VBA-challenge/assets/23108973/a7be87b7-6162-442a-91c8-385019f73cfc)
 
@@ -41,7 +42,7 @@ C. How to install and run the project->
 
 ![alphabetical-testing-sheet-F](https://github.com/AmitaGarad/VBA-challenge/assets/23108973/789658b3-f174-45d2-85cf-3d189cbb767e)
 
-#Screenshot of the Multiple_year_stock_data result: - 
+# Screenshot of the Multiple_year_stock_data result: - 
 
 ![2018-yearly-stock-data](https://github.com/AmitaGarad/VBA-challenge/assets/23108973/d0cd766c-16ed-4fab-935f-99e9a74d22fa)
 
